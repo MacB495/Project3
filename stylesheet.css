@@ -1,0 +1,174 @@
+html {
+background-color: rgb(33, 41, 24);
+margin: 0;
+overflow: auto;
+}
+
+h1{
+    font-family: "offside";
+    font-weight: 400;
+    color: rgb(224, 96, 50);
+    left: 850px;
+    position: relative;
+    font-size: 5.5em;
+    top: 100px;
+}
+
+.viaoda-libre-regular {
+        font-family: "Viaoda Libre", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.offside-regular {
+        font-family: "Offside", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+      
+      
+p{
+    font-family: "Viaoda Libre", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(224, 96, 50);
+    left: 850px;
+    position: relative;
+    top: -600px;
+}
+
+h2{ 
+    color: rgb(224, 96, 50);
+    font-family: "offside";
+    left: 850px;
+    position: relative;
+    top: -600px;
+}
+
+nav {
+    width: 100%;
+    overflow: auto;
+    background-color: rgb(223,210, 66);
+    color: rgb(96, 92, 49);
+    font-family: "Offside", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+li {
+    display: inline;
+    border: 100px;
+}
+
+.nav-about{
+    color: rgb(96, 92, 49);
+    padding: 200px;
+    font-size: 1.5em;
+    font-family: "Offside", sans-serif;
+}
+
+.nav-work{
+    color: rgb(96, 92, 49);
+    padding: 200px;
+    font-size: 1.5em;
+    font-family: "Offside", sans-serif;
+}
+
+.nav-contact{
+    color: rgb(96, 92, 49);
+    padding: 200px;
+    font-size: 1.5em;
+    font-family: "Offside", sans-serif;
+}
+
+.photo{
+    position: relative;
+    width: 500px;
+    z-index: -1;
+    right: 10px;
+    top: -120px;
+}
+
+.grid{
+    display: grid; 
+    gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.photo{
+    position: relative;
+    width: 725px;
+    top:  -345px;
+}
+
+.photo1{
+    position: relative;
+    width: 725px;
+    top: 100px;
+    z-index: -1;
+}
+
+.photo2{
+    position: relative;
+    width: 700px;
+    right: 150px; 
+    top: 100px;
+}
+
+.photo3{
+position: relative;
+    width: 690px;
+    top: 530px;
+    left: -870px;
+}
+
+.photo4{
+    position: relative;
+    width: 450px;
+    top: 130px;
+}
+
+.photo5{
+    position: relative;
+    width: 450px;
+    top: 130px;
+    left: -400px;
+}
+
+.photo6{
+    position: relative;
+    width: 450px;
+    top: 130px;
+    left: -600px;
+}
+
+.photo7{
+    position: relative;
+    width: 900px;
+    top: 200px;
+    z-index: -1;
+    left: 350px;
+}
+
+.photo8{
+    position: relative;
+    width: 900px;
+    left: 300px;
+    top: 100px;
+}
+
+.flyt{
+    position: relative;
+    width: 100px;
+    left: 1400px;
+    top: -700px;
+}
+
+.flyt2{
+    position: relative;
+    width: 170px;
+    left: 380px;
+    top: -795px;
+    z-index: 2;
+}
